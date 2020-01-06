@@ -361,8 +361,8 @@ for line in lst:
 --------------------
 </details>
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%201.md "Day 1")
+[***go to previous day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%201.md "Day 1")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%203.md "Day 3")
+[***go to next day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%203.md "Day 3")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/issues/3)

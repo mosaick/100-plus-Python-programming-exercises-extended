@@ -211,8 +211,8 @@ print aFemale.getGender()
 ```
 ----------------
 </details>
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_20.md "Day 20")
+[***go to previous day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_20.md "Day 20")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_22.md "Day 22")
+[***go to next day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_22.md "Day 22")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/issues/3)

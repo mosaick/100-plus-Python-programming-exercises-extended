@@ -242,8 +242,8 @@ print("%s name is %s"%(Car.name,toyota.name))
 ```
 ---------------------
 </details>
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%207.md "Day 7")
+[***go to previous day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%207.md "Day 7")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%209.md "Day 9")
+[***go to next day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%209.md "Day 9")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/issues/3)

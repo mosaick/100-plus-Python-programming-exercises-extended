@@ -169,8 +169,8 @@ print(resp)
 ---------------------
 </details>
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_17.md "Day 17")
+[***go to previous day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_17.md "Day 17")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_19.md "Day 19")
+[***go to next day***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_19.md "Day 19")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](https://github.com/mosaick/100-plus-Python-programming-exercises-extended/issues/3)
