@@ -13,7 +13,7 @@ between 2000 and 3200 (both included).The numbers obtained should be printed in 
 ---------------------------------------
 
 <details>
-<summary>정답 보기</summary>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -48,6 +48,10 @@ Then, the output should be:40320***
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 ---------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def fact(x):
@@ -92,6 +96,8 @@ print fact(x)
     ```
 -------------------
 
+</details>
+
 # Question 3
 
 ### **Question:**
@@ -108,6 +114,10 @@ print fact(x)
 >***In case of input data being supplied to the question, it should be assumed to be a console input.Consider use dict()***
 
 -----------------
+
+<details>
+<summary>Show solution</summary>
+
 
 **Main author's Solution: Python 2**
 ```python
@@ -134,6 +144,8 @@ ans={i : i*i for i in range(1,n+1)}
 print(ans)
 ```
 ----------------------------------
+
+</details>
 
 ## Conclusion
 ***These was the solved problems of day 1. The above problems are very easy for the basic syntex learners.I have shown some easy ways of coding in my solutions. Lets see how to face and attack new problems in the next day.***
