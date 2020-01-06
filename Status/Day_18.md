@@ -1,4 +1,3 @@
-
 # Question 70
 
 ### **Question**
@@ -11,6 +10,10 @@
 > ***Use random.choice() to a random element from a list.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -28,6 +31,8 @@ print(random.choice(resp))
 ---------------------
 
 
+</details>
+
 # Question 71
 
 ### **Question**
@@ -39,6 +44,10 @@ print(random.choice(resp))
 > ***Use random.choice() to a random element from a list.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -54,6 +63,8 @@ print(random.choice(resp))
 ```
 ---------------------
 
+</details>
+
 # Question 72
 
 ### **Question**
@@ -65,6 +76,10 @@ print(random.choice(resp))
 >***Use random.sample() to generate a list of random values.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -82,6 +97,8 @@ print(resp)
 ---------------------
 
 
+</details>
+
 # Question 73
 
 ### **Question**
@@ -93,6 +110,10 @@ print(resp)
 > ***Use random.sample() to generate a list of random values.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -112,6 +133,8 @@ print(resp)
 
 
 
+</details>
+
 # Question 74
 
 ### **Question**
@@ -124,6 +147,10 @@ print(resp)
 > ***Use random.sample() to generate a list of random values.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -140,7 +167,7 @@ resp = random.sample(lst,5)
 print(resp)
 ```
 ---------------------
-
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_17.md "Day 17")
 

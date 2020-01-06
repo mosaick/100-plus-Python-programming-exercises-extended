@@ -19,6 +19,10 @@ again and hello makes perfect practice world
 >***In case of input data being supplied to the question, it should be assumed to be a console input.We use set container to remove duplicated data automatically and then use sorted() to sort the data.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 s = raw_input()
@@ -52,6 +56,8 @@ print(" ".join(word))
 ```
 ---------------------------
 
+</details>
+
 # Question 11
 
 ### **Question**
@@ -74,6 +80,10 @@ print(" ".join(word))
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 value = []
@@ -124,6 +134,8 @@ print(",".join(data))
 ```
 -------------------------
 
+</details>
+
 # Question 12
 
 ### **Question:**
@@ -136,6 +148,10 @@ print(",".join(data))
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 values = []
@@ -177,6 +193,8 @@ print(",".join(lst))
 ```
 -------------------------
 
+</details>
+
 # Question 13
 
 ### **Question:**
@@ -200,6 +218,10 @@ DIGITS 3
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 s = raw_input()
@@ -240,6 +262,8 @@ for i in word:
 print("LETTERS %d\nDIGITS %d"%(letter,digit))       # two different types of formating method is shown in both solution
 ```
 -----------------
+</details>
+
 ## Conclusion
 ***All the above problems are mostly string related problems. Major parts of the solution includes string releted functions and comprehension method to write down the code in more shorter form.***
 

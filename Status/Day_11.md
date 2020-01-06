@@ -11,7 +11,11 @@
 
 -------------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 tp = (1,2,3,4,5,6,7,8,9,10)
 tp1 = tp[:5]
@@ -72,6 +76,8 @@ print('The Original Tuple:',tp)
 ```
 ------------------
 
+</details>
+
 # Question 39
 
 ### **Question:**
@@ -85,7 +91,11 @@ print('The Original Tuple:',tp)
 
 -------------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 tp = (1,2,3,4,5,6,7,8,9,10)
 li = list()
@@ -112,6 +122,8 @@ print(tpl1)
 ```
 ----------------
 
+</details>
+
 # Question 40
 
 ### **Question:**
@@ -124,7 +136,11 @@ print(tpl1)
 >***Use if statement to judge condition.***
 
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 s= raw_input()
 if s=="yes" or s=="YES" or s=="Yes":
@@ -152,6 +168,8 @@ print(str(output))
 ```
 ----------------
 
+</details>
+
 # Question 41
 
 ### **Question:**
@@ -165,7 +183,11 @@ print(str(output))
 
 -------------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 li = [1,2,3,4,5,6,7,8,9,10]
 squaredNumbers = map(lambda x: x**2, li)
@@ -182,6 +204,8 @@ print(list(squaredNumbers))               # converting the object into list
 ```
 --------------
 
+</details>
+
 # Question 42
 
 ### **Question:**
@@ -194,7 +218,11 @@ print(list(squaredNumbers))               # converting the object into list
 
 -------------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 li = [1,2,3,4,5,6,7,8,9,10]
 evenNumbers = map(lambda x: x**2, filter(lambda x: x%2==0, li))
@@ -215,6 +243,8 @@ li = map(squer,filter(even,li))   # first filters number by even number and the 
 print(list(li))
 ```
 ---------------
+</details>
+
 # Question 43
 
 ### **Question:**
@@ -227,7 +257,11 @@ print(list(li))
 
 -------------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 evenNumbers = filter(lambda x: x%2==0, range(1,21))
 print evenNumbers
@@ -242,7 +276,7 @@ evenNumbers = filter(even, range(1,21))
 print(list(evenNumbers))
 ```
 ------------------
-
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_10.md "Day 10")
 

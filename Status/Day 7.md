@@ -10,6 +10,10 @@
 >***Consider use class, function and comprehension.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 #### ***The solution code for this problem was not as reltive to as the problem mentioned and there was a typing mistake while calling the function.***
 
@@ -27,6 +31,8 @@ print(lst)
 
 ```
 ----------------------
+</details>
+
 # Question 21
 
 ### **Question:**
@@ -57,6 +63,10 @@ RIGHT 2
 >***In case of input data being supplied to the question, it should be assumed to be a console input.Here distance indicates to euclidean distance.Import math module to use sqrt function.***
 
 -----------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 import math
@@ -104,7 +114,7 @@ dist = round(math.sqrt(x**2 + y**2))  # euclidean distance = square root of (x^2
 print(dist)
 ```
 ------------------
-
+</details>
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%206.md "Day 6")
 
 [***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%208.md "Day 8")

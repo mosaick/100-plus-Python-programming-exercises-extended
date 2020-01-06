@@ -118,7 +118,6 @@ print fact(x)
 <details>
 <summary>Show solution</summary>
 
-
 **Main author's Solution: Python 2**
 ```python
 n = int(raw_input())

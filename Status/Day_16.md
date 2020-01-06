@@ -1,5 +1,3 @@
-
-
 # Question 60
 
 ### **Question**
@@ -28,6 +26,10 @@ If the following n is given as input to the program:***
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def f(n):
@@ -51,6 +53,8 @@ n = int(input())
 print(f(n))
 ```
 ---------------------
+
+</details>
 
 # Question 61
 
@@ -81,6 +85,10 @@ If the following n is given as input to the program:***
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def f(n):
@@ -103,6 +111,8 @@ n = int(input())
 print(f(n))
 ```
 ---------------------
+
+</details>
 
 # Question 62
 
@@ -134,6 +144,10 @@ Use list comprehension to generate a list from an existing list.
 Use string.join() to join a list of strings.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -167,6 +181,8 @@ print(ans)
 ```
 ---------------------
 
+
+</details>
 
 # Question 63
 
@@ -212,6 +228,8 @@ print ",".join(values)
 ----------------
 
 
+</details>
+
 # Question 64
 
 ### **Question**
@@ -234,6 +252,10 @@ If the following n is given as input to the program:***
 > ***Use yield to produce the next value in generator.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -263,7 +285,7 @@ print(",".join(resp))
 
 ```
 ---------------------
-
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_15.md "Day 15")
 

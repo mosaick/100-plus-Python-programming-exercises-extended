@@ -1,4 +1,3 @@
-
 # Question 26
 
 ### **Question:**
@@ -11,6 +10,10 @@
 >***Define a function with two numbers as arguments. You can compute the sum in the function and return the value.***
 
 -------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -27,6 +30,8 @@ print(sum(1,2))
 ```
 
 ----------------------------
+</details>
+
 # Question 27
 
 ### **Question:**
@@ -38,6 +43,10 @@ print(sum(1,2))
 >***Use str() to convert a number to string.***
 
 -------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -57,6 +66,8 @@ print(type(n))            # checks the type of the variable
 ```
 ---------------------
 
+</details>
+
 # Question 28
 
 ### **Question:**
@@ -68,6 +79,10 @@ print(type(n))            # checks the type of the variable
 >***Use int() to convert a string to integer.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def printValue(s1,s2):
@@ -83,6 +98,8 @@ print(sum("10","45"))      # 55
 ```
 -------------------
 
+</details>
+
 # Question 29
 
 ### **Question:**
@@ -95,6 +112,10 @@ print(sum("10","45"))      # 55
 >***Use + sign to concatenate the strings.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def printValue(s1,s2):
@@ -109,6 +130,8 @@ sum = lambda s1,s2 : s1 + s2
 print(sum("10","45"))        # 1045
 ```
 ------------------
+</details>
+
 # Question 30
 
 ### **Question:**
@@ -120,6 +143,10 @@ print(sum("10","45"))        # 1045
 >***Use len() function to get the length of a string.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def printValue(s1,s2):
@@ -160,7 +187,7 @@ printVal(s1,s2)
 func = lambda a,b: print(max((a,b),key=len)) if len(a)!=len(b) else print(a+'\n'+b)
 ```
 ------------
-
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%208.md "Day 9")
 

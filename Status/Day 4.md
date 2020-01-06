@@ -1,4 +1,3 @@
-
 # Question 14
 
 ### **Question:**
@@ -20,6 +19,10 @@ LOWER CASE 9
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 s = raw_input()
@@ -84,6 +87,8 @@ print("UPPER CASE: ", upper)
 print("LOWER CASE: ", lower)
 ```
 ----------------------
+</details>
+
 # Question 15
 
 ### **Question:**
@@ -105,6 +110,10 @@ print("LOWER CASE: ", lower)
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 a = raw_input()
@@ -132,6 +141,7 @@ a = input()
 total = int(a) + int(2*a) + int(3*a) + int(4*a)  # N*a=Na, for example  a="23", 2*a="2323",3*a="232323"
 print(total)
 ```
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%203.md "Day 3")
 

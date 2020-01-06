@@ -1,4 +1,3 @@
-
 # Question 65
 
 ### **Question**
@@ -11,6 +10,10 @@
 > ***Use "assert expression" to make assertion.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -27,6 +30,8 @@ for i in data:
 ```
 ---------------------
 
+
+</details>
 
 # Question 66
 
@@ -50,6 +55,10 @@ If the following n is given as input to the program:***
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 expression = raw_input()
@@ -64,6 +73,8 @@ print(ans)
 ```
 ---------------------
 
+</details>
+
 # Question 67
 
 ### **Question**
@@ -75,6 +86,10 @@ print(ans)
 >***Use if/elif to deal with conditions.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -150,6 +165,8 @@ print(bs(66,[1,5,8,10,12,13,55,66,73,78,82,85,88,99,100]))
 ---------------------
 
 
+</details>
+
 # Question 68
 
 ### **Question**
@@ -161,6 +178,10 @@ print(bs(66,[1,5,8,10,12,13,55,66,73,78,82,85,88,99,100]))
 > ***Use random.random() to generate a random float in [0,1].***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -178,6 +199,8 @@ print(rand_num)
 
 
 
+</details>
+
 # Question 69
 
 ### **Question**
@@ -190,6 +213,10 @@ print(rand_num)
 > ***Use random.random() to generate a random float in [0,1].***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -204,7 +231,7 @@ rand_num = random.uniform(5,95)
 print(rand_num)
 ```
 ---------------------
-
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_16.md "Day 16")
 

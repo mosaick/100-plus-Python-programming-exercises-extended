@@ -21,6 +21,10 @@
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 ## The solution by the author is incorrect.Thus it's not included here.
@@ -35,6 +39,8 @@ print(",".join(lst))
 ***There were a mistake in the the test case and the solution's whice were notified and fixed with the help of @dwedigital. My warm thanks to him.*** 
 
 ------------------------
+
+</details>
 
 # Question 17
 
@@ -64,6 +70,10 @@ D 100
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 import sys
@@ -118,7 +128,7 @@ for item in lst:
     balance -= int(item.strip('W '))
 print(balance)
 ```
-
+</details>
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%204.md "Day 4")
 
 [***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%206.md "Day 6")

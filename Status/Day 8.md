@@ -29,6 +29,10 @@ to:1
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 freq = {}   # frequency of words in text
@@ -91,6 +95,8 @@ pprint({i:p.count(i) for i in p})
 ```
 ---------------
 
+</details>
+
 # Question 23
 
 ### **Question:**
@@ -105,6 +111,10 @@ Using the ** operator which can be written as n**p where means n^p
 ```
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 def square(num):
@@ -120,6 +130,8 @@ n=int(input())
 print(n**2)
 ```
 ---------------------
+</details>
+
 # Question 24
 
 ### **Question:**
@@ -136,6 +148,10 @@ The built-in document method is __doc__
 ```
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 print abs.__doc__
@@ -171,6 +187,8 @@ print(pow(3,4))
 print(pow.__doc__)
 ```
 ---------------------
+</details>
+
 # Question 25
 
 ### **Question:**
@@ -185,6 +203,10 @@ Define an instance parameter, need add it in __init__ method.You can init an obj
 ```
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 class Person:
@@ -219,7 +241,7 @@ toyota.name="Toyota"
 print("%s name is %s"%(Car.name,toyota.name))
 ```
 ---------------------
-
+</details>
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%207.md "Day 7")
 
 [***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%209.md "Day 9")

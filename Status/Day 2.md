@@ -20,6 +20,10 @@
 
 -----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 values = raw_input()
@@ -42,6 +46,8 @@ print(lst)
 print(tpl)
 ```
 --------------------------
+</details>
+
 # Question 5
 
 ### **Question:**
@@ -56,6 +62,10 @@ print(tpl)
 >***Use __init__ method to construct some parameters***
 
 ----------------------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 class InputOutString(object):
@@ -90,6 +100,8 @@ xx.getString()
 xx.printString()
 ```
 --------------------------
+</details>
+
 # Question 6
 
 ### **Question:**
@@ -117,6 +129,10 @@ Let us assume the following comma separated input sequence is given to the progr
 >***If the output received is in decimal form, it should be rounded off to its nearest value (for example, if the output received is 26.0, it should be printed as 26).In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 ----------------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -187,6 +203,8 @@ D = list(map(calc,D))   # applying calc function on D and storing as a list
 print(",".join(D))
 ```
 ---------------------
+</details>
+
 # Question 7
 
 ### **Question:**
@@ -206,6 +224,10 @@ print(",".join(D))
 >***Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.***
 
 ------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 input_str = raw_input()
@@ -241,6 +263,8 @@ lst = [[i*j for j in range(y)] for i in range(x)]
 print(lst)
 ```
 ---------------------------
+</details>
+
 # Question 8
 
 ### **Question:**
@@ -261,6 +285,10 @@ bag,hello,without,world
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 items = [x for x in raw_input().split(',')]
@@ -275,6 +303,8 @@ lst.sort()
 print(",".join(lst))
 ```
 -------------------------------
+</details>
+
 # Question 9
 
 ### **Question:**
@@ -297,6 +327,10 @@ PRACTICE MAKES PERFECT
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 lines = []
@@ -325,6 +359,7 @@ for line in lst:
     print(line)
 ```
 --------------------
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%201.md "Day 1")
 

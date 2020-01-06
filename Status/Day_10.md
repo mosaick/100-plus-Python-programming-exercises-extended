@@ -11,7 +11,11 @@
 Use dict[key]=value pattern to put entry into a dictionary.Use ** operator to get power of a number.Use range() for loops.
 ```
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printDict():
 	d=dict()
@@ -32,6 +36,8 @@ printDict()
 ```
 ----------------
 
+</details>
+
 # Question 32
 
 ### **Question:**
@@ -45,7 +51,11 @@ printDict()
 Use dict[key]=value pattern to put entry into a dictionary.Use ** operator to get power of a number.Use range() for loops.Use keys() to iterate keys in the dictionary. Also we can use item() to get key/value pairs.
 ```
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printDict():
 	d=dict()
@@ -66,6 +76,8 @@ printDict()
 ```
 ---------------------
 
+</details>
+
 # Question 33
 
 ### **Question:**
@@ -80,7 +92,11 @@ Use ** operator to get power of a number.Use range() for loops.Use list.append()
 ```
 
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printList():
 	li=list()
@@ -101,6 +117,8 @@ printList()
 ```
 -------------------
 
+</details>
+
 # Question 34
 
 ### **Question:**
@@ -115,7 +133,11 @@ Use ** operator to get power of a number.Use range() for loops.Use list.append()
 ```
 
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printList():
 	li=list()
@@ -144,6 +166,8 @@ func = lambda :print([i**2 for i in range(1,21)][:5])
 ```
 -------------
 
+</details>
+
 # Question 35
 
 ### **Question:**
@@ -156,7 +180,11 @@ func = lambda :print([i**2 for i in range(1,21)][:5])
 Use ** operator to get power of a number.Use range() for loops.Use list.append() to add values into a list.Use [n1:n2] to slice a list
 ```
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printList():
 	li=list()
@@ -177,6 +205,8 @@ def printList():
 printList()
 ```
 ----------------------
+</details>
+
 # Question 36
 
 ### **Question:**
@@ -189,7 +219,11 @@ Hints: Use ** operator to get power of a number.Use range() for loops.Use list.a
 ```
 
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printList():
 	li=list()
@@ -211,6 +245,8 @@ printList()
 ```
 
 ---------------------
+</details>
+
 # Question 37
 
 ### **Question:**
@@ -226,7 +262,11 @@ Use ** operator to get power of a number.Use range() for loops.Use list.append()
 ```
 
 -------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 def printTuple():
 	li=list()
@@ -247,7 +287,7 @@ printTupple()
 ```
 
 -----------------
-
+</details>
 ### Comment
 ***Problems of this section is very much easy and all of those are of a modification of same type problem which mainly focused on using some commonly used function works with list,dictionary, tupple.In my entire solutions, I havn't tried to solve problems in efficient way.Rather I tried to solve in a different way that I can.This will help a beginner to know how simplest problems can be solved in different ways.*** 
 

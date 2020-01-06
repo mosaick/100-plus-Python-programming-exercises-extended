@@ -1,4 +1,3 @@
-
 # Question 75
 
 ### **Question**
@@ -11,12 +10,17 @@
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 import random
 print random.randrange(7,16)
 ```
 ----------------
+
+</details>
 
 # Question 76
 
@@ -30,6 +34,9 @@ print random.randrange(7,16)
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 import zlib
@@ -39,6 +46,8 @@ print t
 print zlib.decompress(t)
 ```
 ----------------
+
+</details>
 
 # Question 77
 
@@ -51,6 +60,10 @@ print zlib.decompress(t)
 >***Use timeit() function to measure the running time.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -84,6 +97,8 @@ print(execution_time)
 ```
 ---------------------
 
+</details>
+
 # Question 78
 
 ### **Question**
@@ -95,6 +110,10 @@ print(execution_time)
 > ***Use shuffle() function to shuffle a list.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -126,6 +145,8 @@ print(lst)
 ```
 ---------------------
 
+</details>
+
 # Question 79
 
 ### **Question**
@@ -138,6 +159,10 @@ print(lst)
 > ***Use list[index] notation to get a element from a list.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -164,6 +189,8 @@ for sub in subjects:
             print("{} {} {}".format(sub,verb,obj))
 ```
 ---------------------
+
+</details>
 
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_18.md "Day 18")

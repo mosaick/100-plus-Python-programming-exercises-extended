@@ -1,5 +1,3 @@
-
-
 # Question 54
 
 ### **Question**
@@ -23,6 +21,10 @@ google
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 import re
@@ -43,6 +45,8 @@ print(ans)
 ```
 ---------------------
 
+
+</details>
 
 # Question 55
 
@@ -67,6 +71,10 @@ If the following words is given as input to the program:***
 > ***Use re.findall() to find all substring using regex.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -103,6 +111,8 @@ print(ans)
 
 
 
+</details>
+
 # Question 56
 
 ### **Question**
@@ -115,12 +125,18 @@ print(ans)
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 unicodeString = u"hello world!"
 print unicodeString
 ```
 ----------------
+
+</details>
 
 # Question 57
 
@@ -133,6 +149,10 @@ print unicodeString
 > ***Use unicode()/encode() function to convert.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -148,6 +168,8 @@ u = s.encode('utf-8')
 print(u)
 ```
 ---------------------
+
+</details>
 
 # Question 58
 
@@ -166,6 +188,8 @@ print(u)
 # -*- coding: utf-8 -*-
 ```
 ----------------
+</details>
+
 # Question 59
 
 ### **Question**
@@ -190,6 +214,10 @@ If the following n is given as input to the program:***
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 n=int(raw_input())
@@ -208,7 +236,7 @@ for i in range(1, n+1):
 print(round(sum, 2))  # rounded to 2 decimal point
 ```
 ---------------------
-
+</details>
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_14.md "Day 14")
 
 [***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_16.md "Day 16")

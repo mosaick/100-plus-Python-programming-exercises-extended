@@ -1,4 +1,3 @@
-
 # Question 90
 
 ### **Question**
@@ -25,6 +24,10 @@ f,1
 Use dict.get() method to lookup a key with default value.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -57,6 +60,8 @@ for letter in range(ord('a'),ord('z')+1):    # ord() gets the ascii value of a c
 ---------------------
 
 
+</details>
+
 # Question 91
 
 ### **Question**
@@ -77,6 +82,10 @@ ris etov ot esir
 
 ----------------------
 
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 s=raw_input()
@@ -91,6 +100,8 @@ s = ''.join(reversed(s))
 print(s)
 ```
 ---------------------
+
+</details>
 
 # Question 92
 
@@ -111,6 +122,10 @@ Helloworld
 >***Use list[::2] to iterate a list by step 2.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -137,6 +152,8 @@ print(ns)
 ---------------------
 
 
+</details>
+
 # Question 93
 
 ### **Question**
@@ -149,6 +166,9 @@ print(ns)
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 
@@ -157,6 +177,7 @@ print list(itertools.permutations([1,2,3]))
 ```
 ----------------
 
+</details>
 
 # Question 94
 
@@ -171,6 +192,9 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many
 > ***Use for loop to iterate all possible solutions.***
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
 
 **Solution:**
 ```python
@@ -188,6 +212,8 @@ solutions=solve(numheads,numlegs)
 print solutions
 ```
 ----------------
+
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_21.md "Day 21")
 

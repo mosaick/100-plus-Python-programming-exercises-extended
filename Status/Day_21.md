@@ -1,4 +1,3 @@
-
 # Question 85
 
 ### **Question**
@@ -11,6 +10,10 @@
 > ***Use list comprehension to delete a bunch of element from a list.Use enumerate() to get (index, value) tuple.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -28,6 +31,8 @@ print(li)
 ---------------------
 
 
+</details>
+
 # Question 86
 
 ### **Question**
@@ -39,6 +44,10 @@ print(li)
 > ***Use list's remove method to delete a value.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -55,6 +64,8 @@ print(li)
 ```
 ---------------------
 
+</details>
+
 # Question 87
 
 ### **Question**
@@ -66,6 +77,10 @@ print(li)
 >***Use set() and "&=" to do set intersection operation.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -98,6 +113,8 @@ print(intersection)
 ---------------------
 
 
+</details>
+
 # Question 88
 
 ### **Question**
@@ -109,6 +126,10 @@ print(intersection)
 > ***Use set() to store a number of values without duplicate.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -151,6 +172,8 @@ print(ans)
 ---------------------
 
 
+</details>
+
 # Question 89
 
 ### **Question**
@@ -163,6 +186,9 @@ print(ans)
 > ***Use Subclass(Parentclass) to define a child class.***
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
 
 **Solution:**
 ```python
@@ -184,7 +210,7 @@ print aMale.getGender()
 print aFemale.getGender()
 ```
 ----------------
-
+</details>
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_20.md "Day 20")
 
 [***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_22.md "Day 22")

@@ -1,4 +1,3 @@
-
 # Question 47
 
 ### **Question**
@@ -11,6 +10,10 @@
 > ***Use def methodName(self) to define a method.***
 
 ---------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -40,6 +43,8 @@ print(circle.area())
 ```
 ----------------
 
+</details>
+
 # Question 48
 
 ### **Question**
@@ -52,6 +57,10 @@ print(circle.area())
 > ***Use def methodName(self) to define a method.***
 
 ----
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -85,6 +94,8 @@ print(rect.area())
 ```
 ----------------
 
+</details>
+
 # Question 49
 
 ### **Question**
@@ -97,6 +108,10 @@ print(rect.area())
 > ***To override a method in super class, we can define a method with the same name in the super class.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -143,6 +158,8 @@ print(Square().area())  # prints zero as default area
 ```
 ---------------------
 
+</details>
+
 # Question 50
 
 ### **Question**
@@ -160,7 +177,7 @@ print(Square().area())  # prints zero as default area
 raise RuntimeError('something wrong')
 ```
 ----------------
-
+</details>
 ## Conclusion
 
 ***Well It seems that the above problems are very much focused on basic concpets and implimantation of object oriented programming.As the concepts are not about to solve any functional problem rather design the structure , so both codes are very much similar in there implimantation part.***

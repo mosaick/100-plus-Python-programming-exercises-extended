@@ -19,6 +19,10 @@
 > ***Make the scores unique and then find 2nd best number***
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
+
 **My Solution: Python 3**
 ```python
 n = int(input())
@@ -28,6 +32,8 @@ arr.sort()
 print(arr[-2])
 ```
 ---------------------
+
+</details>
 
 # Question 96
 
@@ -57,6 +63,9 @@ Your task is to wrap the string into a paragraph of width.***
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **My Solution: Python 3**
 ```python
 import textwrap
@@ -72,6 +81,8 @@ if __name__ == '__main__':
     print(result)
 ```
 ---------------------
+
+</details>
 
 # Question 97
 
@@ -105,6 +116,10 @@ if __name__ == '__main__':
 >***First print the half of the Rangoli in the given way and save each line in a list. Then print the list in reverse order to get the rest.***
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
+
 **My Solution: Python 3**
 ```python
 
@@ -135,6 +150,8 @@ if __name__ == '__main__':
 ---------------------
 
 
+</details>
+
 # Question 98
 
 ### **Question**
@@ -161,6 +178,10 @@ if __name__ == '__main__':
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
+
 **Solution:**
 ```python
 import calendar
@@ -172,6 +193,7 @@ print(calendar.day_name[dayId].upper())
 ```
 ----------------
 
+</details>
 
 # Question 99
 
@@ -204,6 +226,9 @@ print(calendar.day_name[dayId].upper())
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 if __name__ == '__main__':
@@ -219,6 +244,7 @@ if __name__ == '__main__':
         print(i)
 ```
 ----------------
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_22.md "Day 22")
 

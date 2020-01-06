@@ -22,6 +22,10 @@
 > ***Make a list to get the input order and a dictionary to count the word frequency***
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
+
 **My Solution: Python 3**
 ```python
 n = int(input())
@@ -40,6 +44,8 @@ for word in word_list:
     print(word_dict[word], end=' ')
 ```
 ---------------------
+
+</details>
 
 # Question 101
 
@@ -64,6 +70,9 @@ for word in word_list:
 > ***Count frequency with dictionary and sort by Value from dictionary Items***
 
 ----------------------
+
+<details>
+<summary>Show solution</summary>
 
 **My Solution: Python 3**
 ```python
@@ -91,7 +100,7 @@ for i in tmp:
     print(i[0]+' '+str(i[1]))
 ```
 ---------------------
-
+</details>
 
 # Question 102
 ### **Question**
@@ -114,6 +123,9 @@ for i in tmp:
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 word = input()
@@ -127,6 +139,7 @@ print('Letter -',letter)
 ```
 ----------------
 
+</details>
 
 # Question 103
 
@@ -150,6 +163,9 @@ print('Letter -',letter)
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 def rec(n):
@@ -163,6 +179,7 @@ sum = rec(n)
 print(sum)
 ```
 ----------------
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_22.md "Day 23")
 

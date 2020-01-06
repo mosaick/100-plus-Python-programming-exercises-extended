@@ -10,7 +10,11 @@
 
 ---------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 squaredNumbers = map(lambda x: x**2, range(1,21))
 print squaredNumbers
@@ -26,6 +30,8 @@ print (squaredNumbers)
 ```
 ----------------------------------------
 
+</details>
+
 # Question 45
 
 ### **Question:**
@@ -36,7 +42,11 @@ print (squaredNumbers)
 >***Use @staticmethod decorator to define class static method.There are also two more methods.To know more, go to this [link](https://realpython.com/blog/python/instance-class-and-static-methods-demystified/).***
 
 ---------------------
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 class American(object):
     @staticmethod
@@ -64,6 +74,8 @@ American.printNationality()   # this will run even though the @staticmethod
 ```
 ----------------------------------------
 
+</details>
+
 # Question 46
 
 ### **Question:**
@@ -76,7 +88,11 @@ American.printNationality()   # this will run even though the @staticmethod
 
 ------------
 
-**Main Author's Solution: Python 2**
+
+<details>
+<summary>Show solution</summary>
+
+**Main author's Solution: Python 2**
 ```python
 class American(object):
     pass
@@ -105,7 +121,7 @@ print(american)
 print(newyorker)
 ```
 ----------------------------------------
-
+</details>
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_11.md "Day 11")
 
 [***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_13.md "Day 13")

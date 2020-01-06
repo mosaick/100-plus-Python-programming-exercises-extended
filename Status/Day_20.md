@@ -1,4 +1,3 @@
-
 # Question 80
 
 ### **Question**
@@ -11,6 +10,10 @@
 > ***Use list comprehension to delete a bunch of element from a list.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -37,6 +40,8 @@ print(lst)
 ---------------------
 
 
+</details>
+
 # Question 81
 
 ### **Question**
@@ -48,6 +53,10 @@ print(lst)
 > ***Use list comprehension to delete a bunch of element from a list.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -64,6 +73,8 @@ print(li)
 ```
 ---------------------
 
+</details>
+
 # Question 82
 
 ### **Question**
@@ -76,6 +87,10 @@ print(li)
 Use enumerate() to get (index, value) tuple.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -94,6 +109,8 @@ print(li)
 ---------------------
 
 
+</details>
+
 # Question 83
 
 ### **Question**
@@ -106,6 +123,10 @@ print(li)
 Use enumerate() to get (index, value) tuple.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -125,7 +146,7 @@ print(li)
 ```
 ---------------------
 
-
+</details>
 
 # Question 84
 
@@ -140,12 +161,18 @@ print(li)
 
 ----------------------
 
+<details>
+<summary>Show solution</summary>
+
 **Solution:**
 ```python
 array = [[ [0 for col in range(8)] for col in range(5)] for row in range(3)]
 print array
 ```
 ----------------
+
+</details>
+
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_19.md "Day 19")
 

@@ -1,4 +1,3 @@
-
 # Question 51
 
 ### **Question**
@@ -10,6 +9,10 @@
 > ***Use try/except to catch exceptions.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -42,6 +45,8 @@ except:
 ---------------------
 
 
+</details>
+
 # Question 52
 
 ### **Question**
@@ -53,6 +58,10 @@ except:
 > ***To define a custom exception, we need to define a class inherited from Exception.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -98,6 +107,8 @@ except CustomException as ce:
 ---------------------
 
 
+</details>
+
 # Question 53
 
 ### **Question**
@@ -121,6 +132,10 @@ john
 > ***Use \w to match letters.***
 
 ----------------------
+
+
+<details>
+<summary>Show solution</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -147,7 +162,7 @@ pattern = "(\w+)@\w+.com"
 ans = re.findall(pattern,email)
 print(ans)
 ```
-
+</details>
 
 [***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_13.md "Day 13")
 

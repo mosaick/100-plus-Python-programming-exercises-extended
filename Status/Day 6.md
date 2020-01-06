@@ -31,6 +31,10 @@ ABd1234@1
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 import re
@@ -141,6 +145,8 @@ print(",".join(lst))
 
 --------------------------
 
+</details>
+
 # Question 19
 
 ### **Question:**
@@ -171,6 +177,10 @@ Json,21,85
 >***In case of input data being supplied to the question, it should be assumed to be a console input.We use itemgetter to enable multiple sort keys.***
 
 -------------------
+
+<details>
+<summary>Show solution</summary>
+
 **Main author's Solution: Python 2**
 ```python
 from operator import itemgetter, attrgetter
@@ -198,6 +208,8 @@ lst.sort(key= lambda x:(x[0],x[1],x[2]))  # here key is defined by lambda and th
 print(lst)
 ```
 -----------------------
+</details>
+
 ## Conclusion
 ***Before the above problems, I didn't even know about re(regular expression) module and its use. I didn't even know how to sort by multiple keys. To solve those problems in different ways I had to explore and learn those syntax.There are a lots of interesting stuffs in re module though I faced quite a bit hardship to understand many of them.***
 
