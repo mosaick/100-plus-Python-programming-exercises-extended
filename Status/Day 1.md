@@ -12,6 +12,8 @@ between 2000 and 3200 (both included).The numbers obtained should be printed in 
 
 ---------------------------------------
 
+<details>
+<summary>정답 버튼</summary>
 **Main author's Solution: Python 2**
 ```python
 l=[]
@@ -31,6 +33,7 @@ for i in range(2000,3201):
 print("\b")
 ```
 -------------------------------
+</details>
 
 # Question 2
 
